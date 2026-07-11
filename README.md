@@ -195,3 +195,9 @@ Data is written on every operation and reloaded on the next launch. No external 
 **Aryan** — CodeAlpha C++ Internship, Task 4
 
 [![GitHub](https://img.shields.io/badge/GitHub-dat1aryan-181717?style=flat&logo=github)](https://github.com/dat1aryan)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
